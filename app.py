@@ -37,6 +37,7 @@ class Handler(BaseHTTPRequestHandler):
         <meta charset="utf-8">
         <title>我的 Python 项目</title>
         <h1>你好，Python！</h1>
+        <p>这是我的第一个 Docker + Python 项目。</p>
         <p>累计访问次数：{count}</p>
         <a href="/">再访问一次</a>
         </html>
